@@ -2,7 +2,7 @@
 
 An exercise in performing an Extract, Transform, Load (ETL) process to create data pipelines using Python, Pandas and PostgreSQL using very large data files.
 
-![image](https://github.com/amylio/Movies-ETL/blob/main/MOD8_Challenge_Submission/Resources/Images/ETL-monitoring.png)
+![Snap1](https://user-images.githubusercontent.com/96216509/154576139-9ea94285-fc8f-4d77-b300-1a210d5d9992.png)
 
 ## Overview
 
@@ -28,9 +28,10 @@ Create an ETL pipeline using Jupyter Notebooks and PostgreSQL from raw data to S
 
 Ultimately, we were able to clean, merge the datasets and export the two new tables into PostgreSQL by using Python. The final results created a movies table with 6,052 rows. A 17% reduction from the original of 7,311 and a ratings table with 26,024,289 rows.
 
-![movie](https://github.com/amylio/Movies-ETL/blob/main/MOD8_Challenge_Submission/Resources/movies_query.png)
+![movie](https://user-images.githubusercontent.com/96216509/154576584-6693aadb-2a29-493c-aad6-38f6c9d411b6.png)
 
-![ratings](https://github.com/amylio/Movies-ETL/blob/main/MOD8_Challenge_Submission/Resources/ratings_query.png)
+![ratings](https://user-images.githubusercontent.com/96216509/154576759-6c80c132-ae2f-41e7-89e3-6a9dbc36aca5.png)
+
 
 ## Issues
 
