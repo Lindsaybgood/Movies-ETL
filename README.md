@@ -43,15 +43,16 @@ Each attempt resulted in `remote: error: File ratings.csv.zip is 169.99 MB; this
 
 Attempts to have the file tracked through `git lfs track "*.csv"` and have the file uploaded utilizing LFS also resulted in an error. 
 
-Also, extracting and loading the ratings data (26 million rows) into the database took more than 3 hours to complete in the practice file and 2 hours to complete when executing [Deliverable 4 file](https://github.com/amylio/Movies-ETL/blob/main/MOD8_Challenge_Submission/ETL_create_database.ipynb).
+Also, extracting and loading the ratings data (26 million rows) into the database took more than 3 hours to complete in the practice file and 2 hours to complete when executing [Deliverable 4 file](https://github.com/Lindsaybgood/Movies-ETL/blob/main/ETL_create_database.ipynb).
 
 **Practice File Results**
 
-![timestamp](https://github.com/amylio/Movies-ETL/blob/main/MOD8_Challenge_Submission/Resources/Images/timestamp_ratings_TTL.png)
+![timestamp](https://user-images.githubusercontent.com/96216509/154577514-1da15342-01bc-42ea-98c7-b8d423e69e69.png)
 
 **Deliverable 4 File Results**
 
-![timestampfinal](https://github.com/amylio/Movies-ETL/blob/main/MOD8_Challenge_Submission/Resources/Images/TimedResults-TTL.png)
+![timestampfinal](https://user-images.githubusercontent.com/96216509/154577632-26551da2-b0e4-4ce9-8467-fd392b981100.png)
+
 
 ## Summary
 
@@ -61,7 +62,7 @@ Overall, this was a very dense topic to learn and complete in one week. The proc
 * **Software:** Python 3.7.9, Anaconda 4.9.2, Jupyter Notebooks 6.1.4, PostgreSQL 4.28
 * **Libraries:** Pandas, SQLAlchemy, NumPy
 * **Troubleshooting:** [Deleting Cache](https://docs.github.com/en/github/managing-large-files/removing-files-from-a-repositorys-history), [Using Git LFS](https://git-lfs.github.com/)
-* **Files:** [Wikipedia Json](https://github.com/amylio/Movies-ETL/blob/main/MOD8_Challenge_Submission/Resources/wikipedia-movies.json), [Movie Database Metadata](https://github.com/amylio/Movies-ETL/blob/main/MOD8_Challenge_Submission/Resources/movies_metadata.csv.zip), and [MovieLens Ratings](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv)  
+* **Files:** [Wikipedia Json](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/wikipedia-movies.json), [Movie Database Metadata](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/movies_metadata.csv), and [MovieLens Ratings](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv)  
 
 ## Grading Feedback
 "Congratulations on an outstanding homework assignment! You were able to deliver on writing an ETL function to read three different files. All three of these datasets were converted to DataFrames and properly formatted and displayed correctly!
