@@ -59,7 +59,7 @@ Also, extracting and loading the ratings data (26 million rows) into the databas
 Overall, this was a very dense topic to learn and complete in one week. The process of reviewing the data and knowing what to "clean" was challenging, including cross comparison between the datasets, as well as, learning how to use RegEx to parse the text. I expect that to become an expert in ETL, especially RegEx outside of class would require extensive practice and application using real-life examples. I am hoping that with time, I can apply this learning to prepare large datasets for analysis.  
 
 ## Resources
-* **Software:** Python 3.7.9, Anaconda 4.9.2, Jupyter Notebooks 6.1.4, PostgreSQL 4.28
+* **Software:** Python 3.9.7, Anaconda 4.9.2, Jupyter Notebooks 6.4.5, PostgreSQL 4.28 
 * **Libraries:** Pandas, SQLAlchemy, NumPy
 * **Troubleshooting:** [Deleting Cache](https://docs.github.com/en/github/managing-large-files/removing-files-from-a-repositorys-history), [Using Git LFS](https://git-lfs.github.com/)
 * **Files:** [Wikipedia Json](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/wikipedia-movies.json), [Movie Database Metadata](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/movies_metadata.csv), and [MovieLens Ratings](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv) 
