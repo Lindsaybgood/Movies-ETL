@@ -62,15 +62,4 @@ Overall, this was a very dense topic to learn and complete in one week. The proc
 * **Software:** Python 3.7.9, Anaconda 4.9.2, Jupyter Notebooks 6.1.4, PostgreSQL 4.28
 * **Libraries:** Pandas, SQLAlchemy, NumPy
 * **Troubleshooting:** [Deleting Cache](https://docs.github.com/en/github/managing-large-files/removing-files-from-a-repositorys-history), [Using Git LFS](https://git-lfs.github.com/)
-* **Files:** [Wikipedia Json](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/wikipedia-movies.json), [Movie Database Metadata](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/movies_metadata.csv), and [MovieLens Ratings](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv)  
-
-## Grading Feedback
-"Congratulations on an outstanding homework assignment! You were able to deliver on writing an ETL function to read three different files. All three of these datasets were converted to DataFrames and properly formatted and displayed correctly!
-
-Great job with your data extraction process, all TV shows are filtered out, extracted and the cleaned data type is converted to a DataFrame and displayed. As a side note well done successfully using a try-except block! This is a job well done! And you should be proud!
-
-Now, I have to say how impressed I am with the extraction of the Kaggle metadata! You were able to not only clean the data but also, you merged datasets, the “movies” DataFrame is created and all four tasks are performed and all three tasks are completed during the extraction/transformation of the MovieLens rating data.  
-
-Finally, you were able to successfully create the movie database, while simultaneously being able to drop the ratings table, and you moved the MovieLens rating to the SQL ratings table. Sweet job getting the ETA displayed!
-
-Keep up the amazing work and this awesome flow you have been able to establish!"
+* **Files:** [Wikipedia Json](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/wikipedia-movies.json), [Movie Database Metadata](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/movies_metadata.csv), and [MovieLens Ratings](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv) 
