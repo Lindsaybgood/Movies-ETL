@@ -65,4 +65,3 @@ Overall, this was a very dense topic to learn and complete in one week. The proc
 * **Files:** [Wikipedia Json](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/wikipedia-movies.json), [Movie Database Metadata](https://github.com/Lindsaybgood/Movies-ETL/blob/main/Resources/movies_metadata.csv), and [MovieLens Ratings](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv) 
 
 
-
